@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project provides a simulation of a Round Robin scheduling algorithm using a time quantum of 10ms. The simulation reads a list of processes from the `job.txt` file, where each line represents one process with three comma-separated values: the job name, the time of the request, and the duration of the job.
+This project provides a simulation of a Round Robin scheduling algorithm using a time quantum of 10ms in C++. The simulation reads a list of processes from the `job.txt` file, where each line represents one process with three comma-separated values: the job name, the time of the request, and the duration of the job.
 
 The purpose of this program is to simulate the Round Robin scheduling algorithm, focusing on its functionality rather than serving as a full implementation for an operating system. The program handles the jobs in a similar manner to a Round Robin scheduler.
 
